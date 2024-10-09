@@ -1,6 +1,6 @@
 README
 
-This folder contains several projects that I've done to gain hands-on experience.
+This contains several projects that I've done to gain hands-on experience.
 
 1. REAL-TIME STOCK PRICES DASHBOARD
 
