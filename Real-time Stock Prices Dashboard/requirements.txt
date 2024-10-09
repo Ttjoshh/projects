@@ -1,0 +1,7 @@
+mercury
+pandas
+cufflinks
+numpy
+yfinance
+datetime
+statsmodels
